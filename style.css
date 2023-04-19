@@ -1,0 +1,31 @@
+body{
+margin: 0;
+padding: 0;
+color: aliceblue;
+background-color: black;
+}
+
+.logo{
+    border-radius: 50%;
+    height: 100px;
+    margin-top: 100px;
+    border: 4px solid #126a0d;
+}
+
+
+.card{
+    margin: 0;
+    border: 3px solid #126a0d;
+    padding: 0;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+
+.card-body{
+    border:  #000000;
+}
+
+.card-img-top{
+    border: #000000;
+}
